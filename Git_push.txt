@@ -1,0 +1,63 @@
+---------------------------------------git ssh key upload method--------------------------------
+1.make git 
+$git init
+$git add --a
+$git commit -a -m "first commit"
+$git status
+
+2.go to git hub create new Repository
+name it and provide description
+
+3. come back to git cmd
+git config --global user.name "akshay"
+git config --global user.email "akshaydange15@gmail.com"
+
+4. $git remote add <remote name> <address from git hub>
+
+5. create SSH key 
+go to google and search for ssh key generation document
+$ssh -keygen - rsa -b 4096 -c <"your mail id >
+enter 
+enter
+y
+
+6. get path of ssh key in description 
+$cat <path from ended with ras.pub>
+
+7. key and go to git hub - setting -Deploy key -new key -name it - description - 
+paste key here 
+
+8.come back to git cmd
+$git push -u <remote name> master
+
+DONE!!!!! 
+git https key upload
+
+------------------------------convert private to public-----------------------------
+
+1.make git 
+$git init
+$git add --a
+$git commit -a -m "first commit"
+$git status
+
+2.go to git hub create new Repository
+name it and provide description
+
+3. come back to git cmd
+git config --global user.name "akshay"
+git config --global user.email "akshaydange15@gmail.com"
+
+4. $git remote add <remote name> <address from git hub from https:>
+
+5. come back to git cmd
+$git push -u <remote name> master
+
+DONE!!!!! 
+
+------------------------------push code afterword------------------------------------
+1. commit code 
+2. git push -u <remote name> <maaster>
+
+3. to push branch
+$git push <remote name> <branch name>

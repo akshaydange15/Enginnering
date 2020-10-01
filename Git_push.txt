@@ -33,6 +33,11 @@ $git push -u <remote name> master
 DONE!!!!! 
 git https key upload
 
+--------------to check where you are authenticated at ---------------------------
+$ssh -T git@github.com
+you get authentication message where you are stand now at
+
+
 ------------------------------convert private to public-----------------------------
 
 1.make git 

@@ -16,7 +16,7 @@ git config --global user.email "akshaydange15@gmail.com"
 
 5. create SSH key 
 go to google and search for ssh key generation document
-$ssh -keygen - rsa -b 4096 -c <"your mail id >
+$ssh-keygen -t rsa -b 4096 -c <"your mail id >
 enter 
 enter
 y

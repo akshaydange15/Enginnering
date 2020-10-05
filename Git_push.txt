@@ -27,6 +27,10 @@ $cat <path from ended with ras.pub>
 7. key and go to git hub - setting -Deploy key -new key -name it - description - 
 paste key here 
 
+OR
+
+common key available in git just use that (common key for my laptop)
+
 8.come back to git cmd
 $git push -u <remote name> master
 

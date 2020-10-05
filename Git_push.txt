@@ -66,14 +66,8 @@ DONE!!!!!
 
 ------------------------------push code afterword------------------------------------
 1. commit code 
-2. git push -u <remote name> <maaster>
+2. git push -u <remote name> <master>
 
 3. to push branch
 $git push <remote name> <branch name>
-
----------------------------------common key for my laptop ssh --------------------
-key path
-/c/Users/aksha/.ssh/id_rsa.pub
-
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDzn2XS4buwKjXNgb1xAZB2gmPr/HhnD4aKsJOydLp7A3luNd8fMlrJund5dzBk6YaP3z3EEntABm6qkmikw9vk055p2RbUK1+qHJu7kz6CfDW+NiRTGHQA7dLzefQAKKdaOTCRfW/yE3iB664pt4+bkHLhayL5yqYe92Sw/a7k6+3rmehWKeDU9Szk5+G1IAmKDMpXxn1VyKmwgZwizA7gNk5BS7WN5fK7i0W6VNgx2hTWr1Sj0l3yVDUTNRejZctCNG87E5TC4eKrdgkMDjt+/UIIOctLDR4eI6V8+hA6y4mPfwpYfGoLOE9oYetMnL42qTWNsS8h2EtdxBF02j0H7viXggifLJoieNaazI2lVF3RbGewG+Jw4k5u2xLP6xDnChLU/V4+6fhJSDZ3wSREDy58zdZl9kwfkZibvakvaxzcKGnP4eYlI6XCLq5Swh6+iQ0Eu0/9mLGBOmIJqXLRPc0T7aInKX/odnojfrEInIyEUjBAy5V6M5YAt4G8LYZcwX5vlHWKrhedcAEKLZ2zO3cba2QVS73nHegjk8P2RqTCjmmzuYN3BnD34RDLgMUFSNCFwtFvjouTKCE0nhW2+FAdSf/JFUU5xtO/AkusgOfX9CxsSENlhDlNsFTTvZlycj+gvo/S3qMiAjtf8QLksaPZqYF5mnbdqLWrAQS1cw== akshaydange15@gmail.com
 

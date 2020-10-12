@@ -24,7 +24,7 @@ y
 6. get path of ssh key in description 
 $cat <path from ended with ras.pub>
 
-7. key and go to git hub - setting -Deploy key -new key -name it - description - 
+7. key and go to git hub - setting - Deploy key - new key - name it - description - 
 paste key here 
 
 OR
@@ -40,6 +40,9 @@ git https key upload
 --------------to check where you are authenticated at ---------------------------
 $ssh -T git@github.com
 you get authentication message where you are stand now at
+
+To change 
+
 
 
 ------------------------------convert private to public-----------------------------
